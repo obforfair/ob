@@ -2,10 +2,4 @@
 	"name":"obforfair/ob",
 	"description":"A test php-framework",
 	"keywords":["obforfair","ob","php-framework"],
-	"authors":[
-		{
-		"name":"zhouwei",
-		"email":"zhouwei329@126.com",
-		},
-	],
 }
